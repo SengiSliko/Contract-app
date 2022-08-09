@@ -1,1 +1,1 @@
-# Contract-app
+# jobox-fe project
